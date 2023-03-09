@@ -1,123 +1,33 @@
----
-layout: default
----
+ZHIHAO WANG![](001.png)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Resume
 
-[Link to another page](./another-page.html).
+![](002.png) [Wangz8@myumanitoba.ca ](mailto:Wangz8@myumanitoba.ca)14315887821 70 BISON DR, 117, R3T2S5 winnipeg![](003.png)![](004.png)
 
-There should be whitespace between paragraphs.
+Education Personal details![](005.png)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Undergraduated Sep 2018 - Sep 2023 Date of birth
 
-# Header 1
+University of Manitoba, Winnipeg December 7, 1999 Bachelor of Science, Computer Science Major
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Driver's license ![](006.png) WA-NG-\*Z-\*017RG
 
-## Header 2
+Project Gender Female
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Human-Computer Interaction Project Jan 2022 - Apr 2022 Nationality
 
-### Header 3
+A group project for the COMMP3010 (Human-Computer Interaction 1)  Canada
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+course at the University of Manitoba.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+This is a web-based application designed about a haircut app that  ![](007.png)
 
-#### Header 4
+helps users t book haircut appointments with major barber stores,  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+desired looks, specific barbers, etc. through this appx. Skills
 
-##### Header 5
+The design makes extensive use of human-computer interaction  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+principles. Java, C/C++, Python, Ruby, Tools such as HTML, CSS and Javascript were used. MySQL,  Processing
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Git, JetBrains IDEs, XCode, JUnit,Android Studio1
